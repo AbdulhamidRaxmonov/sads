@@ -3968,7 +3968,7 @@ body {
     .line {
         width: 91%;
         height: 2px;
-        top: 80%;
+        top: 89%;
         left: 5%;
         right: 0%;
         background: #fff
@@ -3977,8 +3977,8 @@ body {
     .logo-absolute {
         position: absolute;
         width: 90px !important;
-        top: 65%;
-        right: 5%
+        top: 74%;
+        right: 6%;
     }
 
     .home .content h1 {
@@ -4945,6 +4945,21 @@ body {
             width: 100% !important;
             margin-left: -30%;
         }
+        .line {
+            width: 91%;
+            height: 2px;
+            top: 95%;
+            left: 5%;
+            right: 0%;
+            background: #fff;
+        }
+        .logo-absolute {
+        
+            position: absolute;
+            width: 12% !important;
+            top: 82%;
+            right: 23%;
+        }
 }
 @media screen and (max-width: 700px) {
     .community__item {
@@ -4956,6 +4971,21 @@ body {
     .home .home__bg {
         width: 100% !important;
         
+    }
+    .line {
+        width: 91%;
+        height: 2px;
+        top: 93%;
+        left: 5%;
+        right: 0%;
+        background: #fff;
+    }
+    .logo-absolute {
+        position: absolute;
+        width: 116px !important;
+        top: 78%;
+        right: 11%;
+    
     }
 }
 @media screen and (max-width: 450px) {
@@ -5003,6 +5033,23 @@ body {
     width: 100% !important;
     
 }
+
+.line {
+    width: 91%;
+    height: 2px;
+    top: 93%;
+    left: 5%;
+    right: 0%;
+    background: #fff;
+}
+.logo-absolute {
+    position: absolute;
+    width: 70px !important;
+    top: 81%;
+    right: 12%;
+
+}
+
 }
 
 @media screen and (max-width: 347px) {
@@ -5020,6 +5067,21 @@ body {
         font-size: 12px !important;
     }
    
+    .line {
+        width: 91%;
+        height: 2px;
+        top: 93%;
+        left: 5%;
+        right: 0%;
+        background: #fff;
+    }
+    .logo-absolute {
+        position: absolute;
+        width: 45px !important;
+        top: 85%;
+        right: 12%;
+    
+    }
 }
 
 @media screen and (max-width: 347px) {
